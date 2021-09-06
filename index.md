@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## 조민정
+1. 이화외고 27
+2. 이화여대 21
 
-You can use the [editor on GitHub](https://github.com/Zoeminjungcho/zoeminjung.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![KakaoTalk_20210808_213150210](https://user-images.githubusercontent.com/90169102/132167035-be0076db-3cd4-44b2-81fd-99a37ddc17f9.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 전공
+불어불문학과
 
-### Markdown
+### 좋아하는 음식
+소고기
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  취미
+영화보기
+노래듣기
 
 ```markdown
-Syntax highlighted code block
+some promises to myself
 
-# Header 1
-## Header 2
-### Header 3
+#1 매일 아침 조깅하기
+- 9시~11시
 
-- Bulleted
-- List
+#2. 코딩 시작
+- 아직 잘 모르겠지만
 
-1. Numbered
-2. List
+#3. 여기도 고치는 건지 모르겠어요
+- 일단 함
+-
+#4. Support or Contact
 
-**Bold** and _Italic_ and `Code` text
+01094478593
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zoeminjungcho/zoeminjung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#5. 며칠 전에 찍은 사진 첨부 위에

@@ -5,6 +5,7 @@
 ![KakaoTalk_20210808_213150210](https://user-images.githubusercontent.com/90169102/132167035-be0076db-3cd4-44b2-81fd-99a37ddc17f9.jpg)
 
 ### 전공
+
 불어불문학과
 
 ### 좋아하는 음식
@@ -24,8 +25,7 @@ some promises to myself
 - 아직 잘 모르겠지만
 
 #3. 여기도 고치는 건지 모르겠어요
-- 일단 함
--
+
 #4. Support or Contact
 
 01094478593
